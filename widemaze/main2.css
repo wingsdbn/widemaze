@@ -1,0 +1,154 @@
+@font-face
+{
+    font-family: FontAwesome\5 free;
+    font-style: normal;
+    font-weight: 900;
+    src: url('/assets/fontawesome-free-5.13.0-web/webfonts/fa-solid-900.eot');
+    src: url('/assets/fontawesome-free-5.13.0-web/webfonts/fa-solid-900.eot?#iefix') format("embedded-opentype"), 
+    url('/assets/fontawesome-free-5.13.0-web/webfonts/fa-solid-900.svg#fontawesome') format("svg")
+}
+
+/* bibliotheque bootstrap */
+.tourne
+{
+    transform: rotate(45deg);
+}
+.fs-0
+{
+    font-size: 4rem;
+}
+.fs-7
+{
+    font-size: 0.8rem;
+}
+.bg-gray
+{
+    background-color: #f0f2f5;
+}
+/* nav button */
+.nav__btn button:hover {
+    background: #f0f2f5 !important;
+}
+.nav__btn button:hover i{
+    color: orange !important;
+}
+.nav__btn-active i {
+    color:  orange!important;
+}
+/* #0d6efd */
+.nav__btn-active {
+    position: relative;
+}
+.nav__btn-active:before {
+    content: '';
+    position: absolute;
+    bottom: -4.5px;
+    left: 0;
+    transform: translateY(4.5px);
+    width: 100%;
+    height: 3px;
+    border-bottom: 3px solid orange !important;
+}
+/* chat box */
+.modal-content:hover .fa-phone-alt{
+    color: orange !important;
+    transition: all 5s ease-in-out
+}
+.modal-content:hover .fa-video{
+    color: orange !important;
+    transition: all 5s ease-in-out
+}
+.modal-content:hover .fa-file-image{
+    color: orange !important;
+    transition: all 5s ease-in-out
+}
+.modal-content:hover .fa-plus-circle{
+    color: orange !important;
+    transition: all 5s ease-in-out
+}
+.modal-content:hover .fa-portrait{
+    color: orange !important;
+    transition: all 5s ease-in-out
+}
+.modal-content:hover .fa-adjust{
+    color: orange !important;
+    transition: all 5s ease-in-out
+}
+.modal-content:hover .fa-paper-plane{
+    color: orange !important;
+    transition: all 5s ease-in-out
+}
+
+/* edit */
+.edit-button
+{
+    opacity: 0;
+}
+.edit-button:hover 
+{
+    opacity: 1;
+}
+
+.edit-heading:hover .edit-button {
+    opacity: 1;
+}
+
+/* scrollbar */
+.scrollbar:hover
+{
+    overflow: auto !important;
+}
+
+.dropdown-item:active
+{
+    background-color: #d5d5d5 !important;
+}
+
+/* stories */
+.story:hover
+{
+    opacity: .8;
+}
+/* popover avatar */
+.pop-avatar
+{
+    width: 48px;
+    height: 48px;
+    object-fit: cover;
+    border-radius: 50%;
+    margin-right: 15px;
+}
+
+/* comment */
+.post__comment .accordion-button:after
+{
+    margin-left: 0 !important;
+    display: none !important;
+}
+.post__comment .accordion-button:hover
+{
+    background: transparent !important;
+    border-color: transparent !important;
+}
+.post__comment .accordion-button:hover:not(.collapsed)
+{
+    background: transparent !important;
+    box-shadow: none;
+}
+@media (min-width: 62em)
+{
+    footer{
+        position:fixed;
+        bottom: 0;
+        width: 100%;
+    }
+}
+.modal{
+    position: fixed;
+    top: 0;
+    left: 0;
+}
+
+
+
+

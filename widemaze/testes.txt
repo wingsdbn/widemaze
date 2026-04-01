@@ -1,0 +1,275 @@
+## TEST D'AUTHENTIFICATION
+1. Champs vides → inscription.php
+2. Email invalide → inscription.php
+3. Mot de passe trop court (<8) → inscription.php
+4. Mot de passe sans majuscule → inscription.php
+5. Mot de passe sans chiffre → inscription.php
+6. Confirmation différente → inscription.php
+7. Email déjà existant → inscription.php
+8. Surnom déjà pris → inscription.php
+9. Avatar upload valide → inscription.php
+10. Avatar trop lourd (>2MB) → inscription.php
+11. Email incorrect → connexion.php
+12. Mot de passe incorrect → connexion.php
+13. 5 tentatives échouées → connexion.php
+14. Se souvenir de moi → connexion.php
+15. Connexion réussie → connexion.php
+16. Déconnexion → sidebar.php
+17. Email inexistant → passwordrecover.php
+18. Email existant → passwordrecover.php
+19. Lien expiré (>1h) → reset_password.php
+20. Token invalide → reset_password.php
+21. Nouveau mot de passe faible → reset_password.php
+
+## TEST PROFIL & PARAMÈTRES
+22. Profil personnel → sidebar.php
+23. Profil autre utilisateur → index.php
+24. Avatar par défaut → profil.php
+25. Bio affichée → profil.php
+26. Photo de couverture → profil.php
+27. Changer prénom/nom → parametres.php (Général)
+28. Changer surnom unique → parametres.php (Général)
+29. Ajouter/modifier bio → parametres.php (Général)
+30. Upload avatar JPG/PNG/GIF/WebP → parametres.php (Photo de profil)
+31. Upload avatar trop lourd → parametres.php (Photo de profil)
+32. Réinitialiser avatar → parametres.php (Photo de profil)
+33. Mot de passe actuel incorrect → parametres.php (Sécurité)
+34. Nouveau mot de passe trop faible → parametres.php (Sécurité)
+35. Confirmation différente → parametres.php (Sécurité)
+36. Changement réussi → parametres.php (Sécurité)
+37. Mode sombre → parametres.php (Notifications)
+38. Notifications email → parametres.php (Notifications)
+39. Changer langue → parametres.php (Notifications)
+40. Taper SUPPRIMER → parametres.php (Supprimer)
+41. Mot de passe suppression incorrect → parametres.php (Supprimer)
+42. Suppression réussie → parametres.php (Supprimer)
+
+## TEST PUBLICATIONS
+43. Post texte → index.php (Créer)
+44. Post image JPG/PNG/GIF → index.php (Photo)
+45. Post image trop lourde → index.php (Photo)
+46. Post format image invalide → index.php (Photo)
+47. Post vidéo MP4/WebM → index.php (Vidéo)
+48. Post vide → index.php (Publier)
+49. Visibilité public → index.php
+50. Visibilité amis → index.php
+51. Visibilité privé → index.php
+52. Publication dans communauté → communaute.php
+53. Chargement flux → index.php
+54. Pagination → index.php (Charger plus)
+55. Filtre Amis → index.php
+56. Filtre Photos → index.php
+57. Chargement infini → index.php (scroll)
+58. Like → index.php (J'aime)
+59. Unlike → index.php (J'aime)
+60. Notification like → notifications.php
+61. Ajouter commentaire → index.php (Commenter)
+62. Commentaire trop long → index.php
+63. Notification commentaire → notifications.php
+64. Charger commentaires → index.php
+65. Modifier son post → index.php (trois points)
+66. Supprimer son post → index.php (trois points)
+67. Supprimer post autre → profil.php
+68. Partager post → index.php (Partager)
+69. Signaler post → index.php (trois points)
+70. Double signalement → index.php
+71. Admin voit signalements → admin.php (Signalements)
+
+## TEST AMIS
+72. Envoyer demande ami → profil.php (Ajouter)
+73. Notification demande → notifications.php
+74. Accepter demande → notifications.php
+75. Refuser demande → notifications.php
+76. Annuler demande → profil.php
+77. Supprimer ami → profil.php
+78. Suggestions amis → index.php (sidebar)
+79. Liste amis affichée → profil.php (onglet Amis)
+80. Demande à soi-même → profil.php
+81. Demande utilisateur inexistant → recherche.php
+
+## TEST MESSAGERIE
+82. Message texte → messagerie.php
+83. Message vide → messagerie.php
+84. Envoyer image → messagerie.php (trombone)
+85. Envoyer document PDF/DOC → messagerie.php (trombone)
+86. Envoyer vidéo → messagerie.php (trombone)
+87. Fichier trop lourd → messagerie.php
+88. Enregistrement vocal → messagerie.php (Note vocale)
+89. Permission microphone refusée → messagerie.php
+90. Envoi note vocale → messagerie.php
+91. Lecture note vocale → messagerie.php
+92. Notification nouveau message → notifications.php
+93. Messages non lus badge → messagerie.php
+94. Marquer comme lu → messagerie.php
+95. Liste conversations triée → messagerie.php
+96. Rechercher conversation → messagerie.php
+97. Supprimer message pour moi → messagerie.php (clic droit)
+98. Supprimer message pour tous → messagerie.php (clic droit)
+99. Supprimer conversation → messagerie.php (trois points)
+100. Conversation soi-même → messagerie.php
+101. Notes personnelles privées → messagerie.php
+
+## TEST COMMUNAUTÉS
+102. Créer communauté → communautes.php
+103. Nom déjà existant → communautes.php
+104. Upload photo couverture → communautes.php
+105. Description trop longue → communautes.php
+106. Toutes catégories → communautes.php
+107. Rejoindre communauté → communautes.php
+108. Quitter communauté → communaute.php
+109. Créateur ne peut pas quitter → communaute.php
+110. Publier dans communauté → communaute.php
+111. Notification aux membres → notifications.php
+112. Admin modifier description → communaute.php (Paramètres)
+113. Admin modifier catégorie → communaute.php (Paramètres)
+114. Admin supprimer communauté → communaute.php (Paramètres)
+115. Rechercher communauté → communautes.php
+116. Filtre catégorie → communautes.php
+117. Tri popularité → communautes.php
+118. Tri récence → communautes.php
+119. Tri nombre membres → communautes.php
+120. Filtre Mes communautés → communautes.php
+
+## TEST NOTIFICATIONS
+121. Notification like → notifications.php
+122. Notification commentaire → notifications.php
+123. Notification demande ami → notifications.php
+124. Notification acceptation ami → notifications.php
+125. Marquer une lue → notifications.php (coche)
+126. Marquer toutes lues → notifications.php
+127. Supprimer une → notifications.php (poubelle)
+128. Supprimer toutes → notifications.php
+129. Filtre par type → notifications.php
+130. Badge compteur → sidebar.php (cloche)
+
+## TEST RECHERCHE
+131. Rechercher utilisateurs → recherche.php
+132. Rechercher publications → recherche.php
+133. Rechercher communautés → recherche.php
+134. Recherche trop courte (<2) → recherche.php
+135. Suggestions temps réel → recherche.php
+136. Filtre université → recherche.php (sidebar)
+137. Filtre pays → recherche.php (sidebar)
+138. Filtre date → recherche.php (sidebar)
+139. Filtre catégorie → recherche.php (sidebar)
+140. Tri pertinence → recherche.php (sidebar)
+141. Tri date → recherche.php (sidebar)
+142. Tri popularité → recherche.php (sidebar)
+143. Historique recherche → recherche.php
+144. Tendances affichées → recherche.php
+
+## TEST ADMINISTRATION
+145. Accès admin → sidebar.php
+146. Non-admin accès refusé → sidebar.php
+147. Changer rôle utilisateur → admin.php (Utilisateurs)
+148. Suspendre utilisateur → admin.php (Utilisateurs)
+149. Réactiver utilisateur → admin.php (Utilisateurs)
+150. Supprimer utilisateur → admin.php (Utilisateurs)
+151. Supprimer publication → admin.php (Contenu)
+152. Supprimer communauté → admin.php (Communautés)
+153. Voir signalements → admin.php (Signalements)
+154. Envoyer annonce → admin.php (Annonces)
+155. Vider logs → admin.php (Journaux)
+156. Graphiques dashboard → admin.php (Dashboard)
+
+## TEST SÉCURITÉ
+157. Injection SQL → tous formulaires
+158. XSS → tous champs texte
+159. CSRF → tous formulaires POST
+160. Upload fichier malveillant → upload.php
+161. Accès API sans login → api/posts.php
+162. Session hijacking → config.php
+163. Rate limiting API → api/posts.php
+
+## TEST PERFORMANCE
+164. Temps chargement index → index.php
+165. Temps chargement flux → index.php
+166. Upload 5 Mo → index.php (Photo)
+167. Requêtes SQL par page → index.php
+
+## TEST UPLOADS FICHIERS
+168. Avatar formats → parametres.php (Photo)
+169. Post image formats → index.php (Photo)
+170. Post vidéo formats → index.php (Vidéo)
+171. Document formats → messagerie.php (trombone)
+172. Message tous formats → messagerie.php (trombone)
+173. Fichier trop volumineux → tout upload
+174. Type MIME invalide → upload.php
+175. Extension non autorisée → upload.php
+
+## TEST STORIES
+176. Créer story image → index.php (+ sur story)
+177. Créer story vidéo → index.php (+ sur story)
+178. Story expire 24h → index.php
+179. Voir story ami → index.php
+180. Marquer vue → index.php
+181. Compteur vues → index.php
+
+## TEST ÉVÉNEMENTS & RESSOURCES
+182. Créer événement → communaute.php (Événements)
+183. Modifier événement → communaute.php (Événements)
+184. S'inscrire événement → communaute.php (Événements)
+185. Voir participants → communaute.php (Événements)
+186. Événement expiré → communaute.php (Événements)
+187. Uploader ressource → communaute.php (Ressources)
+188. Télécharger ressource → communaute.php (Ressources)
+189. Compteur téléchargements → communaute.php (Ressources)
+190. Filtrer ressources → communaute.php (Ressources)
+191. Rechercher ressources → communaute.php (Ressources)
+
+## TEST PAGES LÉGALES
+192. Conditions d'utilisation → footer.php
+193. Politique confidentialité → footer.php
+194. Liens fonctionnels → footer.php
+
+## TEST RESPONSIVE
+195. Affichage mobile → mode développeur
+196. Affichage tablette → mode développeur
+197. Affichage desktop → navigateur
+198. Menu mobile → écran <768px
+199. Chat responsive → messagerie.php (mobile)
+
+## TEST TEMPS RÉEL
+200. Polling notifications → notifications.php
+201. Mise à jour badge → index.php
+202. Toast notification → rester connecté
+203. Polling messages → messagerie.php
+204. Indicateur frappe → messagerie.php
+
+## TEST CHARGE
+205. 10 utilisateurs simultanés → outil test
+206. 100 publications simultanées → outil test
+207. Uploads concurrents → outil test
+208. Recherches simultanées → outil test
+
+## TEST NAVIGATEURS
+209. Chrome → navigateur
+210. Firefox → navigateur
+211. Safari → navigateur
+212. Edge → navigateur
+213. Opera → navigateur
+
+## TEST ACCESSIBILITÉ
+214. Navigation clavier → touche Tab
+215. Textes alternatifs → inspecter code
+216. Contraste couleurs → outil Wave
+217. Attributs ARIA → inspecter code
+
+## TEST LOGS
+218. Connexion enregistrée → admin.php (Journaux)
+219. Publication enregistrée → admin.php (Journaux)
+220. Like enregistré → admin.php (Journaux)
+221. Commentaire enregistré → admin.php (Journaux)
+222. Recherche enregistrée → admin.php (Journaux)
+223. IP enregistrée → admin.php (Journaux)
+224. User agent enregistré → admin.php (Journaux)
+
+## TEST WCC CONTROL CENTER
+225. Statistiques dashboard → wcc.php (Dashboard)
+226. Graphique activité → wcc.php
+227. Chatbot IA → wcc.php (Chatbot IA)
+228. Onglets navigation → wcc.php
+229. Recherche pages → wcc.php (Pages)
+230. Recherche API → wcc.php (API)
+231. Filtre logs → wcc.php (Logs)
+232. Progression circulaire → wcc.php (Dashboard)

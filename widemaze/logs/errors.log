@@ -1,0 +1,596 @@
+[19-Mar-2026 07:27:49 UTC] PHP Warning:  Header may not contain more than a single header, new line detected in C:\laragon\www\widemaze\config.php on line 35
+[19-Mar-2026 07:28:05 UTC] PHP Warning:  Header may not contain more than a single header, new line detected in C:\laragon\www\widemaze\config.php on line 35
+[19-Mar-2026 07:28:23 UTC] PHP Warning:  Header may not contain more than a single header, new line detected in C:\laragon\www\widemaze\config.php on line 35
+[19-Mar-2026 13:17:28 UTC] PHP Warning:  Header may not contain more than a single header, new line detected in C:\laragon\www\widemaze\config.php on line 35
+[19-Mar-2026 13:17:28 UTC] === DÉMARRAGE INDEX.PHP ===
+[19-Mar-2026 13:17:28 UTC] Fichier config.php chargé avec succès
+[19-Mar-2026 13:17:28 UTC] Session ID au début: kk2da36l31d63pjnto5q70b5mi
+[19-Mar-2026 13:17:28 UTC] PHP Warning:  Header may not contain more than a single header, new line detected in C:\laragon\www\widemaze\config.php on line 35
+[19-Mar-2026 13:20:47 UTC] PHP Warning:  Header may not contain more than a single header, new line detected in C:\laragon\www\widemaze\config.php on line 35
+[19-Mar-2026 13:20:47 UTC] === DÉMARRAGE INDEX.PHP ===
+[19-Mar-2026 13:20:47 UTC] Fichier config.php chargé avec succès
+[19-Mar-2026 13:20:47 UTC] Session ID au début: mr1jgfglch3ij8oba1hlsbf3ev
+[19-Mar-2026 13:20:47 UTC] PHP Warning:  Header may not contain more than a single header, new line detected in C:\laragon\www\widemaze\config.php on line 35
+[19-Mar-2026 13:21:03 UTC] PHP Warning:  Header may not contain more than a single header, new line detected in C:\laragon\www\widemaze\config.php on line 35
+[19-Mar-2026 13:21:14 UTC] PHP Warning:  Header may not contain more than a single header, new line detected in C:\laragon\www\widemaze\config.php on line 35
+[19-Mar-2026 13:21:14 UTC] === DÉMARRAGE INDEX.PHP ===
+[19-Mar-2026 13:21:14 UTC] Fichier config.php chargé avec succès
+[19-Mar-2026 13:21:14 UTC] Session ID au début: j37go108ddgpa4rgis86u62gs5
+[19-Mar-2026 13:21:14 UTC] PHP Warning:  Header may not contain more than a single header, new line detected in C:\laragon\www\widemaze\config.php on line 35
+[19-Mar-2026 13:37:05 UTC] PHP Warning:  Header may not contain more than a single header, new line detected in C:\laragon\www\widemaze\config.php on line 35
+[19-Mar-2026 14:11:09 UTC] PHP Warning:  Header may not contain more than a single header, new line detected in C:\laragon\www\widemaze\config.php on line 35
+[19-Mar-2026 14:11:09 UTC] PHP Warning:  Undefined variable $remember in C:\laragon\www\widemaze\connexion.php on line 292
+[19-Mar-2026 14:26:36 UTC] PHP Warning:  Undefined variable $remember in C:\laragon\www\widemaze\connexion.php on line 292
+[19-Mar-2026 14:26:57 UTC] PHP Warning:  Undefined variable $remember in C:\laragon\www\widemaze\connexion.php on line 292
+[19-Mar-2026 14:30:09 UTC] PHP Warning:  Undefined variable $remember in C:\laragon\www\widemaze\connexion.php on line 292
+[19-Mar-2026 14:30:44 UTC] PHP Warning:  Undefined variable $remember in C:\laragon\www\widemaze\connexion.php on line 292
+[19-Mar-2026 16:28:33 UTC] === DÉMARRAGE INDEX.PHP ===
+[19-Mar-2026 16:28:33 UTC] Fichier config.php chargé avec succès
+[19-Mar-2026 16:28:33 UTC] Session ID au début: avhpcid1og59vl9l2ivsdlprpl
+[19-Mar-2026 16:28:33 UTC] PHP Warning:  Undefined variable $remember in C:\laragon\www\widemaze\connexion.php on line 292
+[19-Mar-2026 16:50:42 UTC] PHP Warning:  Undefined variable $remember in C:\laragon\www\widemaze\connexion.php on line 291
+[19-Mar-2026 16:51:05 UTC] PHP Warning:  Undefined variable $remember in C:\laragon\www\widemaze\connexion.php on line 291
+[19-Mar-2026 16:51:49 UTC] PHP Warning:  Undefined variable $remember in C:\laragon\www\widemaze\connexion.php on line 291
+[19-Mar-2026 17:02:37 UTC] PHP Warning:  Undefined variable $remember in C:\laragon\www\widemaze\connexion.php on line 291
+[19-Mar-2026 17:02:41 UTC] PHP Warning:  Undefined variable $remember in C:\laragon\www\widemaze\connexion.php on line 291
+[19-Mar-2026 17:02:46 UTC] PHP Warning:  Undefined variable $remember in C:\laragon\www\widemaze\connexion.php on line 291
+[19-Mar-2026 17:06:29 UTC] PHP Warning:  Undefined variable $remember in C:\laragon\www\widemaze\connexion.php on line 291
+[19-Mar-2026 17:08:39 UTC] PHP Warning:  Undefined variable $remember in C:\laragon\www\widemaze\connexion.php on line 291
+[19-Mar-2026 17:10:47 UTC] PHP Warning:  Undefined variable $remember in C:\laragon\www\widemaze\connexion.php on line 291
+[19-Mar-2026 17:11:23 UTC] PHP Warning:  Undefined variable $remember in C:\laragon\www\widemaze\connexion.php on line 291
+[19-Mar-2026 17:22:56 UTC] PHP Warning:  Undefined variable $remember in C:\laragon\www\widemaze\connexion.php on line 291
+[19-Mar-2026 17:31:48 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\laragon\www\widemaze\test_connexion.php:81) in C:\laragon\www\widemaze\test_connexion.php on line 88
+[19-Mar-2026 17:36:32 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\laragon\www\widemaze\test_connexion.php:81) in C:\laragon\www\widemaze\test_connexion.php on line 88
+[19-Mar-2026 18:17:15 UTC] PHP Warning:  Undefined array key "unread_notifications" in C:\laragon\www\widemaze\index.php on line 193
+[19-Mar-2026 18:17:15 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in C:\laragon\www\widemaze\index.php on line 208
+[19-Mar-2026 18:17:15 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in C:\laragon\www\widemaze\index.php on line 250
+[19-Mar-2026 18:17:15 UTC] PHP Warning:  Undefined array key "posts_count" in C:\laragon\www\widemaze\index.php on line 262
+[19-Mar-2026 18:17:15 UTC] PHP Warning:  Undefined array key "friends_count" in C:\laragon\www\widemaze\index.php on line 266
+[19-Mar-2026 18:17:15 UTC] PHP Warning:  Undefined array key "unread_notifications" in C:\laragon\www\widemaze\index.php on line 293
+[19-Mar-2026 18:17:15 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in C:\laragon\www\widemaze\index.php on line 344
+[19-Mar-2026 18:17:15 UTC] PHP Warning:  Undefined variable $stories in C:\laragon\www\widemaze\index.php on line 354
+[19-Mar-2026 18:17:15 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in C:\laragon\www\widemaze\index.php on line 354
+[19-Mar-2026 18:17:15 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in C:\laragon\www\widemaze\index.php on line 372
+[19-Mar-2026 18:17:15 UTC] PHP Warning:  Undefined variable $friendSuggestions in C:\laragon\www\widemaze\index.php on line 455
+[19-Mar-2026 18:17:15 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in C:\laragon\www\widemaze\index.php on line 455
+[19-Mar-2026 18:17:15 UTC] PHP Warning:  Undefined variable $communities in C:\laragon\www\widemaze\index.php on line 481
+[19-Mar-2026 18:17:15 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in C:\laragon\www\widemaze\index.php on line 481
+[19-Mar-2026 18:17:15 UTC] PHP Warning:  Undefined variable $onlineFriends in C:\laragon\www\widemaze\index.php on line 506
+[19-Mar-2026 18:17:15 UTC] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in C:\laragon\www\widemaze\index.php:506
+Stack trace:
+#0 {main}
+  thrown in C:\laragon\www\widemaze\index.php on line 506
+[19-Mar-2026 18:23:32 UTC] PHP Warning:  Undefined array key "unread_notifications" in C:\laragon\www\widemaze\index.php on line 193
+[19-Mar-2026 18:23:32 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in C:\laragon\www\widemaze\index.php on line 208
+[19-Mar-2026 18:23:32 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in C:\laragon\www\widemaze\index.php on line 250
+[19-Mar-2026 18:23:32 UTC] PHP Warning:  Undefined array key "posts_count" in C:\laragon\www\widemaze\index.php on line 262
+[19-Mar-2026 18:23:32 UTC] PHP Warning:  Undefined array key "friends_count" in C:\laragon\www\widemaze\index.php on line 266
+[19-Mar-2026 18:23:32 UTC] PHP Warning:  Undefined array key "unread_notifications" in C:\laragon\www\widemaze\index.php on line 293
+[19-Mar-2026 18:23:32 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in C:\laragon\www\widemaze\index.php on line 344
+[19-Mar-2026 18:23:32 UTC] PHP Warning:  Undefined variable $stories in C:\laragon\www\widemaze\index.php on line 354
+[19-Mar-2026 18:23:32 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in C:\laragon\www\widemaze\index.php on line 354
+[19-Mar-2026 18:23:32 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in C:\laragon\www\widemaze\index.php on line 372
+[19-Mar-2026 18:23:32 UTC] PHP Warning:  Undefined variable $friendSuggestions in C:\laragon\www\widemaze\index.php on line 455
+[19-Mar-2026 18:23:32 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in C:\laragon\www\widemaze\index.php on line 455
+[19-Mar-2026 18:23:32 UTC] PHP Warning:  Undefined variable $communities in C:\laragon\www\widemaze\index.php on line 481
+[19-Mar-2026 18:23:32 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in C:\laragon\www\widemaze\index.php on line 481
+[19-Mar-2026 18:23:32 UTC] PHP Warning:  Undefined variable $onlineFriends in C:\laragon\www\widemaze\index.php on line 506
+[19-Mar-2026 18:23:32 UTC] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in C:\laragon\www\widemaze\index.php:506
+Stack trace:
+#0 {main}
+  thrown in C:\laragon\www\widemaze\index.php on line 506
+[19-Mar-2026 18:23:34 UTC] PHP Warning:  Undefined array key "unread_notifications" in C:\laragon\www\widemaze\index.php on line 193
+[19-Mar-2026 18:23:34 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in C:\laragon\www\widemaze\index.php on line 208
+[19-Mar-2026 18:23:34 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in C:\laragon\www\widemaze\index.php on line 250
+[19-Mar-2026 18:23:34 UTC] PHP Warning:  Undefined array key "posts_count" in C:\laragon\www\widemaze\index.php on line 262
+[19-Mar-2026 18:23:34 UTC] PHP Warning:  Undefined array key "friends_count" in C:\laragon\www\widemaze\index.php on line 266
+[19-Mar-2026 18:23:34 UTC] PHP Warning:  Undefined array key "unread_notifications" in C:\laragon\www\widemaze\index.php on line 293
+[19-Mar-2026 18:23:34 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in C:\laragon\www\widemaze\index.php on line 344
+[19-Mar-2026 18:23:34 UTC] PHP Warning:  Undefined variable $stories in C:\laragon\www\widemaze\index.php on line 354
+[19-Mar-2026 18:23:34 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in C:\laragon\www\widemaze\index.php on line 354
+[19-Mar-2026 18:23:34 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in C:\laragon\www\widemaze\index.php on line 372
+[19-Mar-2026 18:23:34 UTC] PHP Warning:  Undefined variable $friendSuggestions in C:\laragon\www\widemaze\index.php on line 455
+[19-Mar-2026 18:23:34 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in C:\laragon\www\widemaze\index.php on line 455
+[19-Mar-2026 18:23:34 UTC] PHP Warning:  Undefined variable $communities in C:\laragon\www\widemaze\index.php on line 481
+[19-Mar-2026 18:23:34 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in C:\laragon\www\widemaze\index.php on line 481
+[19-Mar-2026 18:23:34 UTC] PHP Warning:  Undefined variable $onlineFriends in C:\laragon\www\widemaze\index.php on line 506
+[19-Mar-2026 18:23:34 UTC] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in C:\laragon\www\widemaze\index.php:506
+Stack trace:
+#0 {main}
+  thrown in C:\laragon\www\widemaze\index.php on line 506
+[19-Mar-2026 18:23:58 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in C:\laragon\www\widemaze\parametres.php on line 404
+[19-Mar-2026 18:24:51 UTC] PHP Warning:  Undefined array key "cover_image" in C:\laragon\www\widemaze\profil.php on line 155
+[19-Mar-2026 18:25:17 UTC] PHP Warning:  Undefined array key "unread_notifications" in C:\laragon\www\widemaze\index.php on line 193
+[19-Mar-2026 18:25:17 UTC] PHP Warning:  Undefined array key "posts_count" in C:\laragon\www\widemaze\index.php on line 262
+[19-Mar-2026 18:25:17 UTC] PHP Warning:  Undefined array key "friends_count" in C:\laragon\www\widemaze\index.php on line 266
+[19-Mar-2026 18:25:17 UTC] PHP Warning:  Undefined array key "unread_notifications" in C:\laragon\www\widemaze\index.php on line 293
+[19-Mar-2026 18:25:17 UTC] PHP Warning:  Undefined variable $stories in C:\laragon\www\widemaze\index.php on line 354
+[19-Mar-2026 18:25:17 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in C:\laragon\www\widemaze\index.php on line 354
+[19-Mar-2026 18:25:17 UTC] PHP Warning:  Undefined variable $friendSuggestions in C:\laragon\www\widemaze\index.php on line 455
+[19-Mar-2026 18:25:17 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in C:\laragon\www\widemaze\index.php on line 455
+[19-Mar-2026 18:25:17 UTC] PHP Warning:  Undefined variable $communities in C:\laragon\www\widemaze\index.php on line 481
+[19-Mar-2026 18:25:17 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in C:\laragon\www\widemaze\index.php on line 481
+[19-Mar-2026 18:25:17 UTC] PHP Warning:  Undefined variable $onlineFriends in C:\laragon\www\widemaze\index.php on line 506
+[19-Mar-2026 18:25:17 UTC] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in C:\laragon\www\widemaze\index.php:506
+Stack trace:
+#0 {main}
+  thrown in C:\laragon\www\widemaze\index.php on line 506
+[19-Mar-2026 18:28:19 UTC] PHP Warning:  Undefined array key "unread_notifications" in C:\laragon\www\widemaze\index.php on line 193
+[19-Mar-2026 18:28:19 UTC] PHP Warning:  Undefined array key "posts_count" in C:\laragon\www\widemaze\index.php on line 262
+[19-Mar-2026 18:28:19 UTC] PHP Warning:  Undefined array key "friends_count" in C:\laragon\www\widemaze\index.php on line 266
+[19-Mar-2026 18:28:19 UTC] PHP Warning:  Undefined array key "unread_notifications" in C:\laragon\www\widemaze\index.php on line 293
+[19-Mar-2026 18:28:19 UTC] PHP Warning:  Undefined variable $stories in C:\laragon\www\widemaze\index.php on line 354
+[19-Mar-2026 18:28:19 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in C:\laragon\www\widemaze\index.php on line 354
+[19-Mar-2026 18:28:19 UTC] PHP Warning:  Undefined variable $friendSuggestions in C:\laragon\www\widemaze\index.php on line 455
+[19-Mar-2026 18:28:19 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in C:\laragon\www\widemaze\index.php on line 455
+[19-Mar-2026 18:28:19 UTC] PHP Warning:  Undefined variable $communities in C:\laragon\www\widemaze\index.php on line 481
+[19-Mar-2026 18:28:19 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in C:\laragon\www\widemaze\index.php on line 481
+[19-Mar-2026 18:28:19 UTC] PHP Warning:  Undefined variable $onlineFriends in C:\laragon\www\widemaze\index.php on line 506
+[19-Mar-2026 18:28:19 UTC] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in C:\laragon\www\widemaze\index.php:506
+Stack trace:
+#0 {main}
+  thrown in C:\laragon\www\widemaze\index.php on line 506
+[19-Mar-2026 18:33:08 UTC] PHP Warning:  Undefined array key "unread_notifications" in C:\laragon\www\widemaze\index.php on line 193
+[19-Mar-2026 18:33:08 UTC] PHP Warning:  Undefined array key "posts_count" in C:\laragon\www\widemaze\index.php on line 262
+[19-Mar-2026 18:33:08 UTC] PHP Warning:  Undefined array key "friends_count" in C:\laragon\www\widemaze\index.php on line 266
+[19-Mar-2026 18:33:08 UTC] PHP Warning:  Undefined array key "unread_notifications" in C:\laragon\www\widemaze\index.php on line 293
+[19-Mar-2026 18:33:08 UTC] PHP Warning:  Undefined variable $stories in C:\laragon\www\widemaze\index.php on line 354
+[19-Mar-2026 18:33:08 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in C:\laragon\www\widemaze\index.php on line 354
+[19-Mar-2026 18:33:08 UTC] PHP Warning:  Undefined variable $friendSuggestions in C:\laragon\www\widemaze\index.php on line 455
+[19-Mar-2026 18:33:09 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in C:\laragon\www\widemaze\index.php on line 455
+[19-Mar-2026 18:33:09 UTC] PHP Warning:  Undefined variable $communities in C:\laragon\www\widemaze\index.php on line 481
+[19-Mar-2026 18:33:09 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in C:\laragon\www\widemaze\index.php on line 481
+[19-Mar-2026 18:33:09 UTC] PHP Warning:  Undefined variable $onlineFriends in C:\laragon\www\widemaze\index.php on line 506
+[19-Mar-2026 18:33:09 UTC] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in C:\laragon\www\widemaze\index.php:506
+Stack trace:
+#0 {main}
+  thrown in C:\laragon\www\widemaze\index.php on line 506
+[19-Mar-2026 18:41:26 UTC] PHP Warning:  Undefined array key "unread_notifications" in C:\laragon\www\widemaze\index.php on line 193
+[19-Mar-2026 18:41:26 UTC] PHP Warning:  Undefined array key "posts_count" in C:\laragon\www\widemaze\index.php on line 262
+[19-Mar-2026 18:41:26 UTC] PHP Warning:  Undefined array key "friends_count" in C:\laragon\www\widemaze\index.php on line 266
+[19-Mar-2026 18:41:26 UTC] PHP Warning:  Undefined array key "unread_notifications" in C:\laragon\www\widemaze\index.php on line 293
+[19-Mar-2026 18:41:26 UTC] PHP Warning:  Undefined variable $stories in C:\laragon\www\widemaze\index.php on line 354
+[19-Mar-2026 18:41:26 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in C:\laragon\www\widemaze\index.php on line 354
+[19-Mar-2026 18:41:26 UTC] PHP Warning:  Undefined variable $friendSuggestions in C:\laragon\www\widemaze\index.php on line 455
+[19-Mar-2026 18:41:26 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in C:\laragon\www\widemaze\index.php on line 455
+[19-Mar-2026 18:41:26 UTC] PHP Warning:  Undefined variable $communities in C:\laragon\www\widemaze\index.php on line 481
+[19-Mar-2026 18:41:26 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in C:\laragon\www\widemaze\index.php on line 481
+[19-Mar-2026 18:41:26 UTC] PHP Warning:  Undefined variable $onlineFriends in C:\laragon\www\widemaze\index.php on line 506
+[19-Mar-2026 18:41:26 UTC] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in C:\laragon\www\widemaze\index.php:506
+Stack trace:
+#0 {main}
+  thrown in C:\laragon\www\widemaze\index.php on line 506
+[19-Mar-2026 18:46:50 UTC] PHP Warning:  Undefined array key "unread_notifications" in C:\laragon\www\widemaze\index.php on line 193
+[19-Mar-2026 18:46:50 UTC] PHP Warning:  Undefined array key "posts_count" in C:\laragon\www\widemaze\index.php on line 262
+[19-Mar-2026 18:46:50 UTC] PHP Warning:  Undefined array key "friends_count" in C:\laragon\www\widemaze\index.php on line 266
+[19-Mar-2026 18:46:50 UTC] PHP Warning:  Undefined array key "unread_notifications" in C:\laragon\www\widemaze\index.php on line 293
+[19-Mar-2026 18:46:50 UTC] PHP Warning:  Undefined variable $stories in C:\laragon\www\widemaze\index.php on line 354
+[19-Mar-2026 18:46:50 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in C:\laragon\www\widemaze\index.php on line 354
+[19-Mar-2026 18:46:50 UTC] PHP Warning:  Undefined variable $friendSuggestions in C:\laragon\www\widemaze\index.php on line 455
+[19-Mar-2026 18:46:50 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in C:\laragon\www\widemaze\index.php on line 455
+[19-Mar-2026 18:46:50 UTC] PHP Warning:  Undefined variable $communities in C:\laragon\www\widemaze\index.php on line 481
+[19-Mar-2026 18:46:50 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in C:\laragon\www\widemaze\index.php on line 481
+[19-Mar-2026 18:46:50 UTC] PHP Warning:  Undefined variable $onlineFriends in C:\laragon\www\widemaze\index.php on line 506
+[19-Mar-2026 18:46:50 UTC] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in C:\laragon\www\widemaze\index.php:506
+Stack trace:
+#0 {main}
+  thrown in C:\laragon\www\widemaze\index.php on line 506
+[19-Mar-2026 18:46:57 UTC] PHP Warning:  Undefined array key "unread_notifications" in C:\laragon\www\widemaze\index.php on line 193
+[19-Mar-2026 18:46:57 UTC] PHP Warning:  Undefined array key "posts_count" in C:\laragon\www\widemaze\index.php on line 262
+[19-Mar-2026 18:46:57 UTC] PHP Warning:  Undefined array key "friends_count" in C:\laragon\www\widemaze\index.php on line 266
+[19-Mar-2026 18:46:57 UTC] PHP Warning:  Undefined array key "unread_notifications" in C:\laragon\www\widemaze\index.php on line 293
+[19-Mar-2026 18:46:57 UTC] PHP Warning:  Undefined variable $stories in C:\laragon\www\widemaze\index.php on line 354
+[19-Mar-2026 18:46:57 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in C:\laragon\www\widemaze\index.php on line 354
+[19-Mar-2026 18:46:57 UTC] PHP Warning:  Undefined variable $friendSuggestions in C:\laragon\www\widemaze\index.php on line 455
+[19-Mar-2026 18:46:57 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in C:\laragon\www\widemaze\index.php on line 455
+[19-Mar-2026 18:46:57 UTC] PHP Warning:  Undefined variable $communities in C:\laragon\www\widemaze\index.php on line 481
+[19-Mar-2026 18:46:57 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in C:\laragon\www\widemaze\index.php on line 481
+[19-Mar-2026 18:46:57 UTC] PHP Warning:  Undefined variable $onlineFriends in C:\laragon\www\widemaze\index.php on line 506
+[19-Mar-2026 18:46:57 UTC] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in C:\laragon\www\widemaze\index.php:506
+Stack trace:
+#0 {main}
+  thrown in C:\laragon\www\widemaze\index.php on line 506
+[19-Mar-2026 18:47:13 UTC] PHP Warning:  Undefined array key "unread_notifications" in C:\laragon\www\widemaze\index.php on line 193
+[19-Mar-2026 18:47:13 UTC] PHP Warning:  Undefined array key "posts_count" in C:\laragon\www\widemaze\index.php on line 262
+[19-Mar-2026 18:47:13 UTC] PHP Warning:  Undefined array key "friends_count" in C:\laragon\www\widemaze\index.php on line 266
+[19-Mar-2026 18:47:13 UTC] PHP Warning:  Undefined array key "unread_notifications" in C:\laragon\www\widemaze\index.php on line 293
+[19-Mar-2026 18:47:13 UTC] PHP Warning:  Undefined variable $stories in C:\laragon\www\widemaze\index.php on line 354
+[19-Mar-2026 18:47:13 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in C:\laragon\www\widemaze\index.php on line 354
+[19-Mar-2026 18:47:13 UTC] PHP Warning:  Undefined variable $friendSuggestions in C:\laragon\www\widemaze\index.php on line 455
+[19-Mar-2026 18:47:13 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in C:\laragon\www\widemaze\index.php on line 455
+[19-Mar-2026 18:47:13 UTC] PHP Warning:  Undefined variable $communities in C:\laragon\www\widemaze\index.php on line 481
+[19-Mar-2026 18:47:13 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in C:\laragon\www\widemaze\index.php on line 481
+[19-Mar-2026 18:47:13 UTC] PHP Warning:  Undefined variable $onlineFriends in C:\laragon\www\widemaze\index.php on line 506
+[19-Mar-2026 18:47:13 UTC] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in C:\laragon\www\widemaze\index.php:506
+Stack trace:
+#0 {main}
+  thrown in C:\laragon\www\widemaze\index.php on line 506
+[19-Mar-2026 18:47:16 UTC] PHP Warning:  Undefined array key "unread_notifications" in C:\laragon\www\widemaze\index.php on line 193
+[19-Mar-2026 18:47:16 UTC] PHP Warning:  Undefined array key "posts_count" in C:\laragon\www\widemaze\index.php on line 262
+[19-Mar-2026 18:47:16 UTC] PHP Warning:  Undefined array key "friends_count" in C:\laragon\www\widemaze\index.php on line 266
+[19-Mar-2026 18:47:16 UTC] PHP Warning:  Undefined array key "unread_notifications" in C:\laragon\www\widemaze\index.php on line 293
+[19-Mar-2026 18:47:16 UTC] PHP Warning:  Undefined variable $stories in C:\laragon\www\widemaze\index.php on line 354
+[19-Mar-2026 18:47:16 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in C:\laragon\www\widemaze\index.php on line 354
+[19-Mar-2026 18:47:16 UTC] PHP Warning:  Undefined variable $friendSuggestions in C:\laragon\www\widemaze\index.php on line 455
+[19-Mar-2026 18:47:16 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in C:\laragon\www\widemaze\index.php on line 455
+[19-Mar-2026 18:47:16 UTC] PHP Warning:  Undefined variable $communities in C:\laragon\www\widemaze\index.php on line 481
+[19-Mar-2026 18:47:16 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in C:\laragon\www\widemaze\index.php on line 481
+[19-Mar-2026 18:47:16 UTC] PHP Warning:  Undefined variable $onlineFriends in C:\laragon\www\widemaze\index.php on line 506
+[19-Mar-2026 18:47:16 UTC] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in C:\laragon\www\widemaze\index.php:506
+Stack trace:
+#0 {main}
+  thrown in C:\laragon\www\widemaze\index.php on line 506
+[19-Mar-2026 18:47:58 UTC] PHP Warning:  Undefined array key "unread_notifications" in C:\laragon\www\widemaze\index.php on line 193
+[19-Mar-2026 18:47:58 UTC] PHP Warning:  Undefined array key "posts_count" in C:\laragon\www\widemaze\index.php on line 262
+[19-Mar-2026 18:47:58 UTC] PHP Warning:  Undefined array key "friends_count" in C:\laragon\www\widemaze\index.php on line 266
+[19-Mar-2026 18:47:58 UTC] PHP Warning:  Undefined array key "unread_notifications" in C:\laragon\www\widemaze\index.php on line 293
+[19-Mar-2026 18:47:58 UTC] PHP Warning:  Undefined variable $stories in C:\laragon\www\widemaze\index.php on line 354
+[19-Mar-2026 18:47:58 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in C:\laragon\www\widemaze\index.php on line 354
+[19-Mar-2026 18:47:58 UTC] PHP Warning:  Undefined variable $friendSuggestions in C:\laragon\www\widemaze\index.php on line 455
+[19-Mar-2026 18:47:58 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in C:\laragon\www\widemaze\index.php on line 455
+[19-Mar-2026 18:47:58 UTC] PHP Warning:  Undefined variable $communities in C:\laragon\www\widemaze\index.php on line 481
+[19-Mar-2026 18:47:58 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in C:\laragon\www\widemaze\index.php on line 481
+[19-Mar-2026 18:47:58 UTC] PHP Warning:  Undefined variable $onlineFriends in C:\laragon\www\widemaze\index.php on line 506
+[19-Mar-2026 18:47:58 UTC] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in C:\laragon\www\widemaze\index.php:506
+Stack trace:
+#0 {main}
+  thrown in C:\laragon\www\widemaze\index.php on line 506
+[19-Mar-2026 19:17:15 UTC] PHP Warning:  Undefined array key "unread_notifications" in C:\laragon\www\widemaze\index.php on line 193
+[19-Mar-2026 19:17:15 UTC] PHP Warning:  Undefined array key "posts_count" in C:\laragon\www\widemaze\index.php on line 262
+[19-Mar-2026 19:17:15 UTC] PHP Warning:  Undefined array key "friends_count" in C:\laragon\www\widemaze\index.php on line 266
+[19-Mar-2026 19:17:15 UTC] PHP Warning:  Undefined array key "unread_notifications" in C:\laragon\www\widemaze\index.php on line 293
+[19-Mar-2026 19:17:15 UTC] PHP Warning:  Undefined variable $stories in C:\laragon\www\widemaze\index.php on line 354
+[19-Mar-2026 19:17:15 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in C:\laragon\www\widemaze\index.php on line 354
+[19-Mar-2026 19:17:15 UTC] PHP Warning:  Undefined variable $friendSuggestions in C:\laragon\www\widemaze\index.php on line 455
+[19-Mar-2026 19:17:15 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in C:\laragon\www\widemaze\index.php on line 455
+[19-Mar-2026 19:17:15 UTC] PHP Warning:  Undefined variable $communities in C:\laragon\www\widemaze\index.php on line 481
+[19-Mar-2026 19:17:15 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in C:\laragon\www\widemaze\index.php on line 481
+[19-Mar-2026 19:17:15 UTC] PHP Warning:  Undefined variable $onlineFriends in C:\laragon\www\widemaze\index.php on line 506
+[19-Mar-2026 19:17:15 UTC] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in C:\laragon\www\widemaze\index.php:506
+Stack trace:
+#0 {main}
+  thrown in C:\laragon\www\widemaze\index.php on line 506
+[19-Mar-2026 19:26:25 UTC] PHP Warning:  Undefined array key "unread_notifications" in C:\laragon\www\widemaze\index.php on line 193
+[19-Mar-2026 19:26:25 UTC] PHP Warning:  Undefined array key "posts_count" in C:\laragon\www\widemaze\index.php on line 262
+[19-Mar-2026 19:26:25 UTC] PHP Warning:  Undefined array key "friends_count" in C:\laragon\www\widemaze\index.php on line 266
+[19-Mar-2026 19:26:25 UTC] PHP Warning:  Undefined array key "unread_notifications" in C:\laragon\www\widemaze\index.php on line 293
+[19-Mar-2026 19:26:25 UTC] PHP Warning:  Undefined variable $stories in C:\laragon\www\widemaze\index.php on line 354
+[19-Mar-2026 19:26:25 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in C:\laragon\www\widemaze\index.php on line 354
+[19-Mar-2026 19:26:25 UTC] PHP Warning:  Undefined variable $friendSuggestions in C:\laragon\www\widemaze\index.php on line 455
+[19-Mar-2026 19:26:25 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in C:\laragon\www\widemaze\index.php on line 455
+[19-Mar-2026 19:26:25 UTC] PHP Warning:  Undefined variable $communities in C:\laragon\www\widemaze\index.php on line 481
+[19-Mar-2026 19:26:25 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in C:\laragon\www\widemaze\index.php on line 481
+[19-Mar-2026 19:26:25 UTC] PHP Warning:  Undefined variable $onlineFriends in C:\laragon\www\widemaze\index.php on line 506
+[19-Mar-2026 19:26:25 UTC] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in C:\laragon\www\widemaze\index.php:506
+Stack trace:
+#0 {main}
+  thrown in C:\laragon\www\widemaze\index.php on line 506
+[19-Mar-2026 19:27:09 UTC] PHP Warning:  Undefined array key "unread_notifications" in C:\laragon\www\widemaze\index.php on line 193
+[19-Mar-2026 19:27:09 UTC] PHP Warning:  Undefined array key "posts_count" in C:\laragon\www\widemaze\index.php on line 262
+[19-Mar-2026 19:27:09 UTC] PHP Warning:  Undefined array key "friends_count" in C:\laragon\www\widemaze\index.php on line 266
+[19-Mar-2026 19:27:09 UTC] PHP Warning:  Undefined array key "unread_notifications" in C:\laragon\www\widemaze\index.php on line 293
+[19-Mar-2026 19:27:09 UTC] PHP Warning:  Undefined variable $stories in C:\laragon\www\widemaze\index.php on line 354
+[19-Mar-2026 19:27:09 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in C:\laragon\www\widemaze\index.php on line 354
+[19-Mar-2026 19:27:09 UTC] PHP Warning:  Undefined variable $friendSuggestions in C:\laragon\www\widemaze\index.php on line 455
+[19-Mar-2026 19:27:09 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in C:\laragon\www\widemaze\index.php on line 455
+[19-Mar-2026 19:27:09 UTC] PHP Warning:  Undefined variable $communities in C:\laragon\www\widemaze\index.php on line 481
+[19-Mar-2026 19:27:09 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in C:\laragon\www\widemaze\index.php on line 481
+[19-Mar-2026 19:27:09 UTC] PHP Warning:  Undefined variable $onlineFriends in C:\laragon\www\widemaze\index.php on line 506
+[19-Mar-2026 19:27:09 UTC] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in C:\laragon\www\widemaze\index.php:506
+Stack trace:
+#0 {main}
+  thrown in C:\laragon\www\widemaze\index.php on line 506
+[19-Mar-2026 20:15:23 UTC] PHP Warning:  Undefined array key "unread_notifications" in C:\laragon\www\widemaze\index.php on line 193
+[19-Mar-2026 20:15:23 UTC] PHP Warning:  Undefined array key "posts_count" in C:\laragon\www\widemaze\index.php on line 262
+[19-Mar-2026 20:15:23 UTC] PHP Warning:  Undefined array key "friends_count" in C:\laragon\www\widemaze\index.php on line 266
+[19-Mar-2026 20:15:23 UTC] PHP Warning:  Undefined array key "unread_notifications" in C:\laragon\www\widemaze\index.php on line 293
+[19-Mar-2026 20:15:23 UTC] PHP Warning:  Undefined variable $stories in C:\laragon\www\widemaze\index.php on line 354
+[19-Mar-2026 20:15:23 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in C:\laragon\www\widemaze\index.php on line 354
+[19-Mar-2026 20:15:23 UTC] PHP Warning:  Undefined variable $friendSuggestions in C:\laragon\www\widemaze\index.php on line 455
+[19-Mar-2026 20:15:23 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in C:\laragon\www\widemaze\index.php on line 455
+[19-Mar-2026 20:15:23 UTC] PHP Warning:  Undefined variable $communities in C:\laragon\www\widemaze\index.php on line 481
+[19-Mar-2026 20:15:23 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in C:\laragon\www\widemaze\index.php on line 481
+[19-Mar-2026 20:15:23 UTC] PHP Warning:  Undefined variable $onlineFriends in C:\laragon\www\widemaze\index.php on line 506
+[19-Mar-2026 20:15:23 UTC] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in C:\laragon\www\widemaze\index.php:506
+Stack trace:
+#0 {main}
+  thrown in C:\laragon\www\widemaze\index.php on line 506
+[19-Mar-2026 20:15:32 UTC] PHP Warning:  Undefined array key "cover_image" in C:\laragon\www\widemaze\profil.php on line 155
+[19-Mar-2026 20:16:16 UTC] PHP Warning:  Undefined array key "cover_image" in C:\laragon\www\widemaze\profil.php on line 155
+[19-Mar-2026 20:16:40 UTC] PHP Warning:  Undefined array key "cover_image" in C:\laragon\www\widemaze\profil.php on line 155
+[19-Mar-2026 20:17:44 UTC] PHP Warning:  Undefined array key "cover_image" in C:\laragon\www\widemaze\profil.php on line 155
+[19-Mar-2026 20:17:48 UTC] PHP Warning:  Undefined array key "unread_notifications" in C:\laragon\www\widemaze\index.php on line 193
+[19-Mar-2026 20:17:48 UTC] PHP Warning:  Undefined array key "posts_count" in C:\laragon\www\widemaze\index.php on line 262
+[19-Mar-2026 20:17:48 UTC] PHP Warning:  Undefined array key "friends_count" in C:\laragon\www\widemaze\index.php on line 266
+[19-Mar-2026 20:17:48 UTC] PHP Warning:  Undefined array key "unread_notifications" in C:\laragon\www\widemaze\index.php on line 293
+[19-Mar-2026 20:17:48 UTC] PHP Warning:  Undefined variable $stories in C:\laragon\www\widemaze\index.php on line 354
+[19-Mar-2026 20:17:48 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in C:\laragon\www\widemaze\index.php on line 354
+[19-Mar-2026 20:17:48 UTC] PHP Warning:  Undefined variable $friendSuggestions in C:\laragon\www\widemaze\index.php on line 455
+[19-Mar-2026 20:17:48 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in C:\laragon\www\widemaze\index.php on line 455
+[19-Mar-2026 20:17:48 UTC] PHP Warning:  Undefined variable $communities in C:\laragon\www\widemaze\index.php on line 481
+[19-Mar-2026 20:17:48 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in C:\laragon\www\widemaze\index.php on line 481
+[19-Mar-2026 20:17:48 UTC] PHP Warning:  Undefined variable $onlineFriends in C:\laragon\www\widemaze\index.php on line 506
+[19-Mar-2026 20:17:48 UTC] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in C:\laragon\www\widemaze\index.php:506
+Stack trace:
+#0 {main}
+  thrown in C:\laragon\www\widemaze\index.php on line 506
+[19-Mar-2026 20:18:16 UTC] PHP Warning:  Undefined array key "cover_image" in C:\laragon\www\widemaze\profil.php on line 155
+[19-Mar-2026 20:18:20 UTC] PHP Warning:  Undefined array key "cover_image" in C:\laragon\www\widemaze\profil.php on line 155
+[19-Mar-2026 20:18:29 UTC] PHP Warning:  Undefined array key "unread_notifications" in C:\laragon\www\widemaze\index.php on line 193
+[19-Mar-2026 20:18:29 UTC] PHP Warning:  Undefined array key "posts_count" in C:\laragon\www\widemaze\index.php on line 262
+[19-Mar-2026 20:18:29 UTC] PHP Warning:  Undefined array key "friends_count" in C:\laragon\www\widemaze\index.php on line 266
+[19-Mar-2026 20:18:29 UTC] PHP Warning:  Undefined array key "unread_notifications" in C:\laragon\www\widemaze\index.php on line 293
+[19-Mar-2026 20:18:29 UTC] PHP Warning:  Undefined variable $stories in C:\laragon\www\widemaze\index.php on line 354
+[19-Mar-2026 20:18:29 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in C:\laragon\www\widemaze\index.php on line 354
+[19-Mar-2026 20:18:29 UTC] PHP Warning:  Undefined variable $friendSuggestions in C:\laragon\www\widemaze\index.php on line 455
+[19-Mar-2026 20:18:29 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in C:\laragon\www\widemaze\index.php on line 455
+[19-Mar-2026 20:18:29 UTC] PHP Warning:  Undefined variable $communities in C:\laragon\www\widemaze\index.php on line 481
+[19-Mar-2026 20:18:29 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in C:\laragon\www\widemaze\index.php on line 481
+[19-Mar-2026 20:18:29 UTC] PHP Warning:  Undefined variable $onlineFriends in C:\laragon\www\widemaze\index.php on line 506
+[19-Mar-2026 20:18:29 UTC] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in C:\laragon\www\widemaze\index.php:506
+Stack trace:
+#0 {main}
+  thrown in C:\laragon\www\widemaze\index.php on line 506
+[19-Mar-2026 20:18:43 UTC] PHP Warning:  Undefined array key "cover_image" in C:\laragon\www\widemaze\profil.php on line 155
+[22-Mar-2026 13:49:11 UTC] [2026-03-22 13:49:11] Erreur DB: SQLSTATE[HY000] [1049] Base 'widemaze' inconnue
+[22-Mar-2026 13:49:20 UTC] [2026-03-22 13:49:20] Erreur DB: SQLSTATE[HY000] [1049] Base 'widemaze' inconnue
+[22-Mar-2026 16:45:44 UTC] PHP Warning:  Undefined array key "unread_notifications" in C:\wamp64\www\widemaze\index.php on line 193
+[22-Mar-2026 16:45:44 UTC] PHP Stack trace:
+[22-Mar-2026 16:45:44 UTC] PHP   1. {main}() C:\wamp64\www\widemaze\index.php:0
+[22-Mar-2026 16:45:44 UTC] PHP Warning:  Undefined array key "posts_count" in C:\wamp64\www\widemaze\index.php on line 262
+[22-Mar-2026 16:45:44 UTC] PHP Stack trace:
+[22-Mar-2026 16:45:44 UTC] PHP   1. {main}() C:\wamp64\www\widemaze\index.php:0
+[22-Mar-2026 16:45:44 UTC] PHP Warning:  Undefined array key "friends_count" in C:\wamp64\www\widemaze\index.php on line 266
+[22-Mar-2026 16:45:44 UTC] PHP Stack trace:
+[22-Mar-2026 16:45:44 UTC] PHP   1. {main}() C:\wamp64\www\widemaze\index.php:0
+[22-Mar-2026 16:45:44 UTC] PHP Warning:  Undefined array key "unread_notifications" in C:\wamp64\www\widemaze\index.php on line 293
+[22-Mar-2026 16:45:44 UTC] PHP Stack trace:
+[22-Mar-2026 16:45:44 UTC] PHP   1. {main}() C:\wamp64\www\widemaze\index.php:0
+[22-Mar-2026 16:45:44 UTC] PHP Warning:  Undefined variable $stories in C:\wamp64\www\widemaze\index.php on line 354
+[22-Mar-2026 16:45:44 UTC] PHP Stack trace:
+[22-Mar-2026 16:45:44 UTC] PHP   1. {main}() C:\wamp64\www\widemaze\index.php:0
+[22-Mar-2026 16:45:44 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in C:\wamp64\www\widemaze\index.php on line 354
+[22-Mar-2026 16:45:44 UTC] PHP Stack trace:
+[22-Mar-2026 16:45:44 UTC] PHP   1. {main}() C:\wamp64\www\widemaze\index.php:0
+[22-Mar-2026 16:45:44 UTC] PHP Warning:  Undefined variable $friendSuggestions in C:\wamp64\www\widemaze\index.php on line 455
+[22-Mar-2026 16:45:44 UTC] PHP Stack trace:
+[22-Mar-2026 16:45:44 UTC] PHP   1. {main}() C:\wamp64\www\widemaze\index.php:0
+[22-Mar-2026 16:45:44 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in C:\wamp64\www\widemaze\index.php on line 455
+[22-Mar-2026 16:45:44 UTC] PHP Stack trace:
+[22-Mar-2026 16:45:44 UTC] PHP   1. {main}() C:\wamp64\www\widemaze\index.php:0
+[22-Mar-2026 16:45:44 UTC] PHP Warning:  Undefined variable $communities in C:\wamp64\www\widemaze\index.php on line 481
+[22-Mar-2026 16:45:44 UTC] PHP Stack trace:
+[22-Mar-2026 16:45:44 UTC] PHP   1. {main}() C:\wamp64\www\widemaze\index.php:0
+[22-Mar-2026 16:45:44 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in C:\wamp64\www\widemaze\index.php on line 481
+[22-Mar-2026 16:45:44 UTC] PHP Stack trace:
+[22-Mar-2026 16:45:44 UTC] PHP   1. {main}() C:\wamp64\www\widemaze\index.php:0
+[22-Mar-2026 16:45:44 UTC] PHP Warning:  Undefined variable $onlineFriends in C:\wamp64\www\widemaze\index.php on line 506
+[22-Mar-2026 16:45:44 UTC] PHP Stack trace:
+[22-Mar-2026 16:45:44 UTC] PHP   1. {main}() C:\wamp64\www\widemaze\index.php:0
+[22-Mar-2026 16:45:44 UTC] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in C:\wamp64\www\widemaze\index.php:506
+Stack trace:
+#0 {main}
+  thrown in C:\wamp64\www\widemaze\index.php on line 506
+[22-Mar-2026 17:00:54 UTC] PHP Warning:  Undefined array key "unread_notifications" in C:\wamp64\www\widemaze\index.php on line 193
+[22-Mar-2026 17:00:54 UTC] PHP Stack trace:
+[22-Mar-2026 17:00:54 UTC] PHP   1. {main}() C:\wamp64\www\widemaze\index.php:0
+[22-Mar-2026 17:00:54 UTC] PHP Warning:  Undefined array key "posts_count" in C:\wamp64\www\widemaze\index.php on line 262
+[22-Mar-2026 17:00:54 UTC] PHP Stack trace:
+[22-Mar-2026 17:00:54 UTC] PHP   1. {main}() C:\wamp64\www\widemaze\index.php:0
+[22-Mar-2026 17:00:54 UTC] PHP Warning:  Undefined array key "friends_count" in C:\wamp64\www\widemaze\index.php on line 266
+[22-Mar-2026 17:00:54 UTC] PHP Stack trace:
+[22-Mar-2026 17:00:54 UTC] PHP   1. {main}() C:\wamp64\www\widemaze\index.php:0
+[22-Mar-2026 17:00:54 UTC] PHP Warning:  Undefined array key "unread_notifications" in C:\wamp64\www\widemaze\index.php on line 293
+[22-Mar-2026 17:00:54 UTC] PHP Stack trace:
+[22-Mar-2026 17:00:54 UTC] PHP   1. {main}() C:\wamp64\www\widemaze\index.php:0
+[22-Mar-2026 17:00:54 UTC] PHP Warning:  Undefined variable $stories in C:\wamp64\www\widemaze\index.php on line 354
+[22-Mar-2026 17:00:54 UTC] PHP Stack trace:
+[22-Mar-2026 17:00:54 UTC] PHP   1. {main}() C:\wamp64\www\widemaze\index.php:0
+[22-Mar-2026 17:00:54 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in C:\wamp64\www\widemaze\index.php on line 354
+[22-Mar-2026 17:00:54 UTC] PHP Stack trace:
+[22-Mar-2026 17:00:54 UTC] PHP   1. {main}() C:\wamp64\www\widemaze\index.php:0
+[22-Mar-2026 17:00:54 UTC] PHP Warning:  Undefined variable $friendSuggestions in C:\wamp64\www\widemaze\index.php on line 455
+[22-Mar-2026 17:00:54 UTC] PHP Stack trace:
+[22-Mar-2026 17:00:54 UTC] PHP   1. {main}() C:\wamp64\www\widemaze\index.php:0
+[22-Mar-2026 17:00:54 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in C:\wamp64\www\widemaze\index.php on line 455
+[22-Mar-2026 17:00:54 UTC] PHP Stack trace:
+[22-Mar-2026 17:00:54 UTC] PHP   1. {main}() C:\wamp64\www\widemaze\index.php:0
+[22-Mar-2026 17:00:54 UTC] PHP Warning:  Undefined variable $communities in C:\wamp64\www\widemaze\index.php on line 481
+[22-Mar-2026 17:00:54 UTC] PHP Stack trace:
+[22-Mar-2026 17:00:54 UTC] PHP   1. {main}() C:\wamp64\www\widemaze\index.php:0
+[22-Mar-2026 17:00:54 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in C:\wamp64\www\widemaze\index.php on line 481
+[22-Mar-2026 17:00:54 UTC] PHP Stack trace:
+[22-Mar-2026 17:00:54 UTC] PHP   1. {main}() C:\wamp64\www\widemaze\index.php:0
+[22-Mar-2026 17:00:54 UTC] PHP Warning:  Undefined variable $onlineFriends in C:\wamp64\www\widemaze\index.php on line 506
+[22-Mar-2026 17:00:54 UTC] PHP Stack trace:
+[22-Mar-2026 17:00:54 UTC] PHP   1. {main}() C:\wamp64\www\widemaze\index.php:0
+[22-Mar-2026 17:00:54 UTC] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in C:\wamp64\www\widemaze\index.php:506
+Stack trace:
+#0 {main}
+  thrown in C:\wamp64\www\widemaze\index.php on line 506
+[22-Mar-2026 17:02:15 UTC] PHP Warning:  Undefined array key "cover_image" in C:\wamp64\www\widemaze\profil.php on line 155
+[22-Mar-2026 17:02:15 UTC] PHP Stack trace:
+[22-Mar-2026 17:02:15 UTC] PHP   1. {main}() C:\wamp64\www\widemaze\profil.php:0
+[22-Mar-2026 17:47:28 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\wamp64\www\widemaze\wcc.php:101) in C:\wamp64\www\widemaze\config.php on line 99
+[22-Mar-2026 17:47:28 UTC] PHP Stack trace:
+[22-Mar-2026 17:47:28 UTC] PHP   1. {main}() C:\wamp64\www\widemaze\wcc.php:0
+[22-Mar-2026 17:47:28 UTC] PHP   2. require_auth() C:\wamp64\www\widemaze\wcc.php:542
+[22-Mar-2026 17:47:28 UTC] PHP   3. header($header = 'Location: connexion.php') C:\wamp64\www\widemaze\config.php:99
+[22-Mar-2026 17:49:05 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\wamp64\www\widemaze\wcc.php:101) in C:\wamp64\www\widemaze\config.php on line 99
+[22-Mar-2026 17:49:05 UTC] PHP Stack trace:
+[22-Mar-2026 17:49:05 UTC] PHP   1. {main}() C:\wamp64\www\widemaze\wcc.php:0
+[22-Mar-2026 17:49:05 UTC] PHP   2. require_auth() C:\wamp64\www\widemaze\wcc.php:542
+[22-Mar-2026 17:49:05 UTC] PHP   3. header($header = 'Location: connexion.php') C:\wamp64\www\widemaze\config.php:99
+[22-Mar-2026 17:50:04 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\wamp64\www\widemaze\wcc.php:101) in C:\wamp64\www\widemaze\config.php on line 99
+[22-Mar-2026 17:50:04 UTC] PHP Stack trace:
+[22-Mar-2026 17:50:04 UTC] PHP   1. {main}() C:\wamp64\www\widemaze\wcc.php:0
+[22-Mar-2026 17:50:04 UTC] PHP   2. require_auth() C:\wamp64\www\widemaze\wcc.php:542
+[22-Mar-2026 17:50:04 UTC] PHP   3. header($header = 'Location: connexion.php') C:\wamp64\www\widemaze\config.php:99
+[22-Mar-2026 17:56:18 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\wamp64\www\widemaze\wcc.php:101) in C:\wamp64\www\widemaze\config.php on line 99
+[22-Mar-2026 17:56:18 UTC] PHP Stack trace:
+[22-Mar-2026 17:56:18 UTC] PHP   1. {main}() C:\wamp64\www\widemaze\wcc.php:0
+[22-Mar-2026 17:56:18 UTC] PHP   2. require_auth() C:\wamp64\www\widemaze\wcc.php:542
+[22-Mar-2026 17:56:18 UTC] PHP   3. header($header = 'Location: connexion.php') C:\wamp64\www\widemaze\config.php:99
+[22-Mar-2026 18:04:57 UTC] PHP Warning:  Undefined array key "unread_notifications" in C:\wamp64\www\widemaze\index.php on line 193
+[22-Mar-2026 18:04:57 UTC] PHP Stack trace:
+[22-Mar-2026 18:04:57 UTC] PHP   1. {main}() C:\wamp64\www\widemaze\index.php:0
+[22-Mar-2026 18:04:57 UTC] PHP Warning:  Undefined array key "posts_count" in C:\wamp64\www\widemaze\index.php on line 262
+[22-Mar-2026 18:04:57 UTC] PHP Stack trace:
+[22-Mar-2026 18:04:57 UTC] PHP   1. {main}() C:\wamp64\www\widemaze\index.php:0
+[22-Mar-2026 18:04:57 UTC] PHP Warning:  Undefined array key "friends_count" in C:\wamp64\www\widemaze\index.php on line 266
+[22-Mar-2026 18:04:57 UTC] PHP Stack trace:
+[22-Mar-2026 18:04:57 UTC] PHP   1. {main}() C:\wamp64\www\widemaze\index.php:0
+[22-Mar-2026 18:04:57 UTC] PHP Warning:  Undefined array key "unread_notifications" in C:\wamp64\www\widemaze\index.php on line 293
+[22-Mar-2026 18:04:57 UTC] PHP Stack trace:
+[22-Mar-2026 18:04:57 UTC] PHP   1. {main}() C:\wamp64\www\widemaze\index.php:0
+[22-Mar-2026 18:04:57 UTC] PHP Warning:  Undefined variable $stories in C:\wamp64\www\widemaze\index.php on line 354
+[22-Mar-2026 18:04:57 UTC] PHP Stack trace:
+[22-Mar-2026 18:04:57 UTC] PHP   1. {main}() C:\wamp64\www\widemaze\index.php:0
+[22-Mar-2026 18:04:57 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in C:\wamp64\www\widemaze\index.php on line 354
+[22-Mar-2026 18:04:57 UTC] PHP Stack trace:
+[22-Mar-2026 18:04:57 UTC] PHP   1. {main}() C:\wamp64\www\widemaze\index.php:0
+[22-Mar-2026 18:04:57 UTC] PHP Warning:  Undefined variable $friendSuggestions in C:\wamp64\www\widemaze\index.php on line 455
+[22-Mar-2026 18:04:57 UTC] PHP Stack trace:
+[22-Mar-2026 18:04:57 UTC] PHP   1. {main}() C:\wamp64\www\widemaze\index.php:0
+[22-Mar-2026 18:04:57 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in C:\wamp64\www\widemaze\index.php on line 455
+[22-Mar-2026 18:04:57 UTC] PHP Stack trace:
+[22-Mar-2026 18:04:57 UTC] PHP   1. {main}() C:\wamp64\www\widemaze\index.php:0
+[22-Mar-2026 18:04:57 UTC] PHP Warning:  Undefined variable $communities in C:\wamp64\www\widemaze\index.php on line 481
+[22-Mar-2026 18:04:57 UTC] PHP Stack trace:
+[22-Mar-2026 18:04:57 UTC] PHP   1. {main}() C:\wamp64\www\widemaze\index.php:0
+[22-Mar-2026 18:04:57 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in C:\wamp64\www\widemaze\index.php on line 481
+[22-Mar-2026 18:04:57 UTC] PHP Stack trace:
+[22-Mar-2026 18:04:57 UTC] PHP   1. {main}() C:\wamp64\www\widemaze\index.php:0
+[22-Mar-2026 18:04:57 UTC] PHP Warning:  Undefined variable $onlineFriends in C:\wamp64\www\widemaze\index.php on line 506
+[22-Mar-2026 18:04:57 UTC] PHP Stack trace:
+[22-Mar-2026 18:04:57 UTC] PHP   1. {main}() C:\wamp64\www\widemaze\index.php:0
+[22-Mar-2026 18:04:57 UTC] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in C:\wamp64\www\widemaze\index.php:506
+Stack trace:
+#0 {main}
+  thrown in C:\wamp64\www\widemaze\index.php on line 506
+[22-Mar-2026 18:40:11 UTC] PHP Warning:  Undefined array key "unread_notifications" in C:\wamp64\www\widemaze\index.php on line 193
+[22-Mar-2026 18:40:11 UTC] PHP Stack trace:
+[22-Mar-2026 18:40:11 UTC] PHP   1. {main}() C:\wamp64\www\widemaze\index.php:0
+[22-Mar-2026 18:40:11 UTC] PHP Warning:  Undefined array key "posts_count" in C:\wamp64\www\widemaze\index.php on line 262
+[22-Mar-2026 18:40:11 UTC] PHP Stack trace:
+[22-Mar-2026 18:40:11 UTC] PHP   1. {main}() C:\wamp64\www\widemaze\index.php:0
+[22-Mar-2026 18:40:11 UTC] PHP Warning:  Undefined array key "friends_count" in C:\wamp64\www\widemaze\index.php on line 266
+[22-Mar-2026 18:40:11 UTC] PHP Stack trace:
+[22-Mar-2026 18:40:11 UTC] PHP   1. {main}() C:\wamp64\www\widemaze\index.php:0
+[22-Mar-2026 18:40:11 UTC] PHP Warning:  Undefined array key "unread_notifications" in C:\wamp64\www\widemaze\index.php on line 293
+[22-Mar-2026 18:40:11 UTC] PHP Stack trace:
+[22-Mar-2026 18:40:11 UTC] PHP   1. {main}() C:\wamp64\www\widemaze\index.php:0
+[22-Mar-2026 18:40:11 UTC] PHP Warning:  Undefined variable $stories in C:\wamp64\www\widemaze\index.php on line 354
+[22-Mar-2026 18:40:11 UTC] PHP Stack trace:
+[22-Mar-2026 18:40:11 UTC] PHP   1. {main}() C:\wamp64\www\widemaze\index.php:0
+[22-Mar-2026 18:40:11 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in C:\wamp64\www\widemaze\index.php on line 354
+[22-Mar-2026 18:40:11 UTC] PHP Stack trace:
+[22-Mar-2026 18:40:11 UTC] PHP   1. {main}() C:\wamp64\www\widemaze\index.php:0
+[22-Mar-2026 18:40:11 UTC] PHP Warning:  Undefined variable $friendSuggestions in C:\wamp64\www\widemaze\index.php on line 455
+[22-Mar-2026 18:40:11 UTC] PHP Stack trace:
+[22-Mar-2026 18:40:11 UTC] PHP   1. {main}() C:\wamp64\www\widemaze\index.php:0
+[22-Mar-2026 18:40:11 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in C:\wamp64\www\widemaze\index.php on line 455
+[22-Mar-2026 18:40:11 UTC] PHP Stack trace:
+[22-Mar-2026 18:40:11 UTC] PHP   1. {main}() C:\wamp64\www\widemaze\index.php:0
+[22-Mar-2026 18:40:11 UTC] PHP Warning:  Undefined variable $communities in C:\wamp64\www\widemaze\index.php on line 481
+[22-Mar-2026 18:40:11 UTC] PHP Stack trace:
+[22-Mar-2026 18:40:11 UTC] PHP   1. {main}() C:\wamp64\www\widemaze\index.php:0
+[22-Mar-2026 18:40:11 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in C:\wamp64\www\widemaze\index.php on line 481
+[22-Mar-2026 18:40:11 UTC] PHP Stack trace:
+[22-Mar-2026 18:40:11 UTC] PHP   1. {main}() C:\wamp64\www\widemaze\index.php:0
+[22-Mar-2026 18:40:11 UTC] PHP Warning:  Undefined variable $onlineFriends in C:\wamp64\www\widemaze\index.php on line 506
+[22-Mar-2026 18:40:11 UTC] PHP Stack trace:
+[22-Mar-2026 18:40:11 UTC] PHP   1. {main}() C:\wamp64\www\widemaze\index.php:0
+[22-Mar-2026 18:40:11 UTC] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in C:\wamp64\www\widemaze\index.php:506
+Stack trace:
+#0 {main}
+  thrown in C:\wamp64\www\widemaze\index.php on line 506
+[22-Mar-2026 18:54:21 UTC] PHP Warning:  Undefined array key "cover_image" in C:\wamp64\www\widemaze\profil.php on line 155
+[22-Mar-2026 18:54:21 UTC] PHP Stack trace:
+[22-Mar-2026 18:54:21 UTC] PHP   1. {main}() C:\wamp64\www\widemaze\profil.php:0
+[22-Mar-2026 18:54:38 UTC] PHP Warning:  Undefined array key "cover_image" in C:\wamp64\www\widemaze\profil.php on line 155
+[22-Mar-2026 18:54:38 UTC] PHP Stack trace:
+[22-Mar-2026 18:54:38 UTC] PHP   1. {main}() C:\wamp64\www\widemaze\profil.php:0
+[22-Mar-2026 19:41:34 UTC] Erreur recherche: SQLSTATE[HY000]: General error: 1191 Impossible de trouver un index FULLTEXT correspondant à cette liste de colonnes
+[22-Mar-2026 19:52:55 UTC] Erreur récupération communautés: SQLSTATE[42S22]: Column not found: 1054 Champ 'created_at' inconnu dans field list
+[22-Mar-2026 19:52:55 UTC] Erreur recommandations: SQLSTATE[42S22]: Column not found: 1054 Champ 'c.is_active' inconnu dans where clause
+[22-Mar-2026 19:52:55 UTC] Erreur mes communautés: SQLSTATE[42S22]: Column not found: 1054 Champ 'cm.created_at' inconnu dans field list
+[22-Mar-2026 19:53:02 UTC] Erreur récupération communautés: SQLSTATE[42S22]: Column not found: 1054 Champ 'created_at' inconnu dans field list
+[22-Mar-2026 19:53:02 UTC] Erreur recommandations: SQLSTATE[42S22]: Column not found: 1054 Champ 'c.is_active' inconnu dans where clause
+[22-Mar-2026 19:53:02 UTC] Erreur mes communautés: SQLSTATE[42S22]: Column not found: 1054 Champ 'cm.created_at' inconnu dans field list
+[22-Mar-2026 19:53:04 UTC] Erreur récupération communautés: SQLSTATE[42S22]: Column not found: 1054 Champ 'created_at' inconnu dans field list
+[22-Mar-2026 19:53:04 UTC] Erreur recommandations: SQLSTATE[42S22]: Column not found: 1054 Champ 'c.is_active' inconnu dans where clause
+[22-Mar-2026 19:53:04 UTC] Erreur mes communautés: SQLSTATE[42S22]: Column not found: 1054 Champ 'cm.created_at' inconnu dans field list
+[22-Mar-2026 19:53:06 UTC] Erreur récupération communautés: SQLSTATE[42S22]: Column not found: 1054 Champ 'created_at' inconnu dans field list
+[22-Mar-2026 19:53:06 UTC] Erreur recommandations: SQLSTATE[42S22]: Column not found: 1054 Champ 'c.is_active' inconnu dans where clause
+[22-Mar-2026 19:53:06 UTC] Erreur mes communautés: SQLSTATE[42S22]: Column not found: 1054 Champ 'cm.created_at' inconnu dans field list
+[22-Mar-2026 19:53:07 UTC] Erreur récupération communautés: SQLSTATE[42S22]: Column not found: 1054 Champ 'created_at' inconnu dans field list
+[22-Mar-2026 19:53:07 UTC] Erreur recommandations: SQLSTATE[42S22]: Column not found: 1054 Champ 'c.is_active' inconnu dans where clause
+[22-Mar-2026 19:53:07 UTC] Erreur mes communautés: SQLSTATE[42S22]: Column not found: 1054 Champ 'cm.created_at' inconnu dans field list
+[22-Mar-2026 19:53:11 UTC] Erreur récupération communautés: SQLSTATE[42S22]: Column not found: 1054 Champ 'created_at' inconnu dans field list
+[22-Mar-2026 19:53:11 UTC] Erreur recommandations: SQLSTATE[42S22]: Column not found: 1054 Champ 'c.is_active' inconnu dans where clause
+[22-Mar-2026 19:53:11 UTC] Erreur mes communautés: SQLSTATE[42S22]: Column not found: 1054 Champ 'cm.created_at' inconnu dans field list
+[22-Mar-2026 19:54:26 UTC] Erreur récupération communautés: SQLSTATE[42S22]: Column not found: 1054 Champ 'created_at' inconnu dans field list
+[22-Mar-2026 19:54:26 UTC] Erreur recommandations: SQLSTATE[42S22]: Column not found: 1054 Champ 'c.is_active' inconnu dans where clause
+[22-Mar-2026 19:54:26 UTC] Erreur mes communautés: SQLSTATE[42S22]: Column not found: 1054 Champ 'cm.created_at' inconnu dans field list
+[23-Mar-2026 04:43:47 UTC] Erreur recherche: SQLSTATE[HY000]: General error: 1191 Impossible de trouver un index FULLTEXT correspondant à cette liste de colonnes
+[23-Mar-2026 04:43:52 UTC] Erreur recherche: SQLSTATE[HY000]: General error: 1191 Impossible de trouver un index FULLTEXT correspondant à cette liste de colonnes
+[23-Mar-2026 04:43:53 UTC] Erreur recherche: SQLSTATE[HY000]: General error: 1191 Impossible de trouver un index FULLTEXT correspondant à cette liste de colonnes
+[23-Mar-2026 04:44:01 UTC] Erreur recherche: SQLSTATE[42S22]: Column not found: 1054 Champ 'p.privacy' inconnu dans where clause
+[23-Mar-2026 04:44:02 UTC] Erreur recherche: SQLSTATE[HY000]: General error: 1191 Impossible de trouver un index FULLTEXT correspondant à cette liste de colonnes
+[23-Mar-2026 04:44:02 UTC] Erreur recherche: SQLSTATE[HY000]: General error: 1191 Impossible de trouver un index FULLTEXT correspondant à cette liste de colonnes
+[23-Mar-2026 04:44:03 UTC] Erreur recherche: SQLSTATE[42S22]: Column not found: 1054 Champ 'p.privacy' inconnu dans where clause
+[23-Mar-2026 04:44:04 UTC] Erreur recherche: SQLSTATE[HY000]: General error: 1191 Impossible de trouver un index FULLTEXT correspondant à cette liste de colonnes
+[23-Mar-2026 04:44:06 UTC] Erreur recherche: SQLSTATE[42S22]: Column not found: 1054 Champ 'p.privacy' inconnu dans where clause
+[23-Mar-2026 04:44:07 UTC] Erreur recherche: SQLSTATE[42S22]: Column not found: 1054 Champ 'p.privacy' inconnu dans where clause
+[23-Mar-2026 04:44:09 UTC] Erreur recherche: SQLSTATE[HY000]: General error: 1191 Impossible de trouver un index FULLTEXT correspondant à cette liste de colonnes
+[23-Mar-2026 04:44:09 UTC] Erreur recherche: SQLSTATE[HY000]: General error: 1191 Impossible de trouver un index FULLTEXT correspondant à cette liste de colonnes
+[23-Mar-2026 04:50:22 UTC] Erreur récupération posts signalés: SQLSTATE[42S22]: Column not found: 1054 Champ 'p.is_reported' inconnu dans where clause
+[23-Mar-2026 04:50:40 UTC] Erreur récupération posts signalés: SQLSTATE[42S22]: Column not found: 1054 Champ 'p.is_reported' inconnu dans where clause
+[23-Mar-2026 04:50:45 UTC] Erreur récupération posts signalés: SQLSTATE[42S22]: Column not found: 1054 Champ 'p.is_reported' inconnu dans where clause
+[23-Mar-2026 04:50:47 UTC] Erreur récupération posts signalés: SQLSTATE[42S22]: Column not found: 1054 Champ 'p.is_reported' inconnu dans where clause
+[23-Mar-2026 04:50:48 UTC] Erreur récupération posts signalés: SQLSTATE[42S22]: Column not found: 1054 Champ 'p.is_reported' inconnu dans where clause
+[23-Mar-2026 04:50:49 UTC] Erreur récupération posts signalés: SQLSTATE[42S22]: Column not found: 1054 Champ 'p.is_reported' inconnu dans where clause
+[23-Mar-2026 04:51:34 UTC] Erreur récupération posts signalés: SQLSTATE[42S22]: Column not found: 1054 Champ 'p.is_reported' inconnu dans where clause
+[23-Mar-2026 04:51:39 UTC] Erreur récupération posts signalés: SQLSTATE[42S22]: Column not found: 1054 Champ 'p.is_reported' inconnu dans where clause
+[23-Mar-2026 04:51:49 UTC] Erreur récupération posts signalés: SQLSTATE[42S22]: Column not found: 1054 Champ 'p.is_reported' inconnu dans where clause
+[23-Mar-2026 04:51:55 UTC] Erreur récupération posts signalés: SQLSTATE[42S22]: Column not found: 1054 Champ 'p.is_reported' inconnu dans where clause
+[23-Mar-2026 05:08:36 UTC] PHP Warning:  Undefined variable $unreadCount in C:\wamp64\www\widemaze\index.php on line 313
+[23-Mar-2026 05:08:36 UTC] PHP Stack trace:
+[23-Mar-2026 05:08:36 UTC] PHP   1. {main}() C:\wamp64\www\widemaze\index.php:0
+[23-Mar-2026 05:08:56 UTC] PHP Warning:  Undefined variable $unreadCount in C:\wamp64\www\widemaze\index.php on line 313
+[23-Mar-2026 05:08:56 UTC] PHP Stack trace:
+[23-Mar-2026 05:08:56 UTC] PHP   1. {main}() C:\wamp64\www\widemaze\index.php:0
+[23-Mar-2026 05:10:40 UTC] PHP Warning:  Undefined variable $unreadCount in C:\wamp64\www\widemaze\index.php on line 313
+[23-Mar-2026 05:10:40 UTC] PHP Stack trace:
+[23-Mar-2026 05:10:40 UTC] PHP   1. {main}() C:\wamp64\www\widemaze\index.php:0
+[23-Mar-2026 05:10:42 UTC] PHP Warning:  Undefined variable $unreadCount in C:\wamp64\www\widemaze\index.php on line 313
+[23-Mar-2026 05:10:42 UTC] PHP Stack trace:
+[23-Mar-2026 05:10:42 UTC] PHP   1. {main}() C:\wamp64\www\widemaze\index.php:0
+[23-Mar-2026 05:11:56 UTC] PHP Warning:  Undefined variable $unreadCount in C:\wamp64\www\widemaze\index.php on line 304
+[23-Mar-2026 05:11:56 UTC] PHP Stack trace:
+[23-Mar-2026 05:11:56 UTC] PHP   1. {main}() C:\wamp64\www\widemaze\index.php:0
+[23-Mar-2026 05:16:51 UTC] Erreur récupération posts signalés: SQLSTATE[42S22]: Column not found: 1054 Champ 'p.is_reported' inconnu dans where clause
+[23-Mar-2026 05:20:31 UTC] Erreur récupération posts signalés: SQLSTATE[42S22]: Column not found: 1054 Champ 'p.is_reported' inconnu dans where clause
+[23-Mar-2026 05:24:42 UTC] Erreur récupération posts signalés: SQLSTATE[42S22]: Column not found: 1054 Champ 'p.is_reported' inconnu dans where clause
+[23-Mar-2026 06:30:51 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PDO::fetchColumn() in C:\wamp64\www\widemaze\messagerie.php:398
+Stack trace:
+#0 {main}
+  thrown in C:\wamp64\www\widemaze\messagerie.php on line 398
+[23-Mar-2026 09:30:52 UTC] Erreur récupération posts signalés: SQLSTATE[42S22]: Column not found: 1054 Champ 'p.is_reported' inconnu dans where clause
+[23-Mar-2026 09:39:52 UTC] Erreur récupération posts signalés: SQLSTATE[42S22]: Column not found: 1054 Champ 'p.is_reported' inconnu dans where clause
+[23-Mar-2026 17:16:30 UTC] Erreur récupération posts signalés: SQLSTATE[42S22]: Column not found: 1054 Champ 'p.is_reported' inconnu dans where clause
+[23-Mar-2026 17:16:37 UTC] Erreur récupération posts signalés: SQLSTATE[42S22]: Column not found: 1054 Champ 'p.is_reported' inconnu dans where clause
+[23-Mar-2026 17:16:41 UTC] Erreur récupération posts signalés: SQLSTATE[42S22]: Column not found: 1054 Champ 'p.is_reported' inconnu dans where clause
+[23-Mar-2026 17:21:02 UTC] PHP Warning:  Undefined array key "completed" in C:\wamp64\www\widemaze\wcc.php on line 815
+[23-Mar-2026 17:21:02 UTC] PHP Stack trace:
+[23-Mar-2026 17:21:02 UTC] PHP   1. {main}() C:\wamp64\www\widemaze\wcc.php:0
+[23-Mar-2026 17:30:30 UTC] Erreur récupération posts signalés: SQLSTATE[42S22]: Column not found: 1054 Champ 'p.is_reported' inconnu dans where clause
+[23-Mar-2026 17:31:09 UTC] Erreur récupération posts signalés: SQLSTATE[42S22]: Column not found: 1054 Champ 'p.is_reported' inconnu dans where clause
+[23-Mar-2026 17:33:09 UTC] Erreur récupération posts signalés: SQLSTATE[42S22]: Column not found: 1054 Champ 'p.is_reported' inconnu dans where clause
+[23-Mar-2026 17:38:13 UTC] Erreur récupération posts signalés: SQLSTATE[42S22]: Column not found: 1054 Champ 'p.is_reported' inconnu dans where clause
+[23-Mar-2026 17:52:33 UTC] Erreur récupération posts signalés: SQLSTATE[42S22]: Column not found: 1054 Champ 'p.is_reported' inconnu dans where clause
+[23-Mar-2026 17:52:38 UTC] Erreur récupération posts signalés: SQLSTATE[42S22]: Column not found: 1054 Champ 'p.is_reported' inconnu dans where clause
+[23-Mar-2026 17:52:45 UTC] Erreur récupération posts signalés: SQLSTATE[42S22]: Column not found: 1054 Champ 'p.is_reported' inconnu dans where clause
+[23-Mar-2026 19:05:06 UTC] Erreur récupération posts signalés: SQLSTATE[42S22]: Column not found: 1054 Champ 'p.is_reported' inconnu dans where clause
+[23-Mar-2026 19:05:38 UTC] Erreur récupération posts signalés: SQLSTATE[42S22]: Column not found: 1054 Champ 'p.is_reported' inconnu dans where clause
